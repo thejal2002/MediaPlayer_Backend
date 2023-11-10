@@ -1,0 +1,83 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "sa",
+      "url": "https://m.timesofindia.com/photo/104004351/size-234739/104004351.jpg",
+      "embedLink": "https://www.youtube.com/embed/WXCaIJZ6y8E"
+    },
+    {
+      "id": "3",
+      "caption": "jawan",
+      "url": "https://images.tv9hindi.com/wp-content/uploads/2023/08/shah_rukh_khan_jawan_new_song_29_08_2023-2.jpg",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "4",
+      "caption": "despacito",
+      "url": "https://m.media-amazon.com/images/M/MV5BNmQ4YzYwOWMtODBkOC00YjljLTkzMGYtYjY2OGU1N2NiODE5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+      "embedLink": "https://www.youtube.com/embed/kJQP7kiw5Fk"
+    },
+    {
+      "id": "5",
+      "caption": "hasi",
+      "url": "https://data1.ibtimes.co.in/en/full/571225/hamari-adhuri-kahani.jpg?h=450&l=46&t=26",
+      "embedLink": "https://www.youtube.com/embed/oyaudgo5_8Y"
+    },
+    {
+      "id": "6",
+      "caption": "summertime sadness",
+      "url": "https://i.scdn.co/image/ab67616d0000b273eac56d00d866e0ffa509020d",
+      "embedLink": "https://www.youtube.com/embed/TdrL3QxjyVw"
+    }
+  ],
+  "categories": [
+    {
+      "CategoryName": "hindi video songs",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "CategoryName": "english songs",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "CategoryName": "babu",
+      "allVideos": [],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "jawan",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timestamp": "07/11/2023, 16:53:33",
+      "id": 1
+    },
+    {
+      "caption": "jawan",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timestamp": "07/11/2023, 16:55:43",
+      "id": 2
+    },
+    {
+      "caption": "hasi",
+      "embedLink": "https://www.youtube.com/embed/oyaudgo5_8Y",
+      "timestamp": "07/11/2023, 16:56:59",
+      "id": 3
+    },
+    {
+      "caption": "summertime sadness",
+      "embedLink": "https://www.youtube.com/embed/TdrL3QxjyVw",
+      "timestamp": "07/11/2023, 17:06:32",
+      "id": 4
+    },
+    {
+      "caption": "hasi",
+      "embedLink": "https://www.youtube.com/embed/oyaudgo5_8Y",
+      "timestamp": "10/11/2023, 01:32:45",
+      "id": 5
+    }
+    ]
+}
